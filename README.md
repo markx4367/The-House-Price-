@@ -1,2 +1,2 @@
 # The-House-Price-
-To predict the House Price on the basis of location and all over conditions 
+To predict the House Price on the basis of location and all over conditions.
